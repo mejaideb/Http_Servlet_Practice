@@ -15,8 +15,11 @@ public class RequestHandlerTest {
     public void extractFileNameAndRequestType() throws IOException {
         FileInputStream fileInputStream = new FileInputStream("httprequest.txt");
         BufferedInputStream bufferedInputStream = new BufferedInputStream(fileInputStream);
+
         RequestHandler requestHandler = new RequestHandler(bufferedInputStream);
+
         requestHandler.handleRequest();
+
         assertEquals("index.html", requestHandler.getFileName());
         assertEquals("GET", requestHandler.getMethodName());
         bufferedInputStream.close();

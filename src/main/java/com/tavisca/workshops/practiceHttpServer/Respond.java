@@ -21,9 +21,9 @@ public class Respond {
             out.write(fileData);
         }catch (FileNotFoundException e) {
             if(fileName.isEmpty())
-                sendRespondToRequest(out,"filenotfound");
-            else
                 sendRespondToRequest(out,"index.html");
+            else
+                sendRespondToRequest(out,"filenotfound.html");
         } catch (IOException e) {
             e.printStackTrace();
         }
