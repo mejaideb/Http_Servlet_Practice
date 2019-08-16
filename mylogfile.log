@@ -1,1020 +1,336 @@
-Aug 06, 2019 11:19:41 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:23 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:19:50 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:19:50 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:19:58 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:19:58 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:19:59 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:19:59 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:19:59 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:19:59 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:39 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:39 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:47 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:47 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:47 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 06, 2019 11:20:10 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:47 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:42:40 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:23 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:23 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:23 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:23 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:43:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:43:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:08 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:27 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:45:28 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:13 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:51 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:55:52 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:53:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:20 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:23 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:27 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:27 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:34 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:34 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:34 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:34 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:38 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:38 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:55:34 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:46 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:46 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:53 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:53 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:53 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:53 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:57 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:56:57 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:57:29 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:57:29 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:57:29 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:57:29 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:57:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:57:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:58:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:58:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:58:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:58:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:58:40 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 10:58:40 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:03:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:03:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:03:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:03:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:03:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:03:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:49 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:56 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:56 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:56 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:56 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:56 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:07:56 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:14 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:14 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:14 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:14 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 1:58:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:08:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:00:17 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:02 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:00:17 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:02 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:00:17 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:02 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:00:17 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:02 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:00:17 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:00:17 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:00:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:00:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:11:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:00:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:00:24 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:00:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:00:25 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:45 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:56 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:56 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:56 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:56 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:01:57 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:01:57 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:05 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:02:58 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:03:07 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:03:07 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:03:07 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:03:07 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:03:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:03:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:03:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:03:22 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:11:31 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:15 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:18 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:18 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:20 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:12:20 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:11 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:24 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:25 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:25 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:13:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:39 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:39 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:39 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:39 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:46 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:43 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:46 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:47 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:54 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:54 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:54 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:54 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:58 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:14:58 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:15:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:15:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:15:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:15:30 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:15:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:15:33 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:16:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:16:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:16:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:16:35 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:16:38 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:16:38 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:04 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:18 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:18 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:18 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:18 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:22 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:17:22 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:32 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:41 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:42 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:42 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:42 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:42 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:49 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:49 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:55 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:55 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:55 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:19:55 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:20:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:20:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:20:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:47 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 11:20:03 AM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
-INFO: connection established..
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:25:56 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
-Aug 07, 2019 2:11:51 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
