@@ -38,7 +38,7 @@ pipeline {
         {
             steps {
                 sh label: '', script: '''echo "I am at building stage"
-				docker build -t httpserver:1.1 .'''
+				docker build -d -t httpserver:1.1 .'''
             }
         }
         stage('Publish DockerImage')
