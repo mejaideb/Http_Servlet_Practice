@@ -44,9 +44,13 @@ pipeline {
         stage('Publish DockerImage')
         {
             steps {
-                sh label: '', script: '''echo "I am Pubishing DockerImage ="
+                sh label: '', script: '''
+		echo "I am Pubishing DockerImage ="
+		
+		    docker login docker.io
                     docker tag httpserver:1.1 mejaideb/httpserverpipelinedemo
-                    docker push mejaideb/httpserverpipeline'''
+                    docker push mejaideb/httpserverpipeline
+		    '''
         	}
     	}
     }
