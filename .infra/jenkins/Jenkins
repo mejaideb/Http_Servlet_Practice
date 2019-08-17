@@ -33,27 +33,18 @@ pipeline {
         stage('Build DockerImage')
         {
             steps {
-                sh script: '''
-                    echo "I am Building DockerImage"
-                    docker build -t httpserver:1.1 .
-
-
-
-                ''',
-            label: "Building Docker Image"
+                sh label: '', script: '''echo "I am at building stage"
+				docker build -t httpserver:1.1 .'''
             }
         }
         stage('Publish DockerImage')
         {
             steps {
-                sh script: '''
-                    echo "I am Pubishing DockerImage ="
+                sh label: '', script: '''echo "I am Pubishing DockerImage ="
                     docker tag httpserver:1.1 mejaideb/httpserverpipelinedemo
-                    docker push mejaideb/httpserverpipeline
-                ''',
-            label: "Publishing Docker Image"
-            }
-        }
+                    docker push mejaideb/httpserverpipeline'''
+        	}
+    	}
     }
     post{
     always{
