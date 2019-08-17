@@ -34,7 +34,11 @@ pipeline {
         {
             steps {
                 sh script: '''
-                    echo "I am Building DockerImage ="
+                    echo "I am Building DockerImage"
+                    docker build -t httpserver:1.1 .
+
+
+
                 ''',
             label: "Building Docker Image"
             }
@@ -44,6 +48,8 @@ pipeline {
             steps {
                 sh script: '''
                     echo "I am Pubishing DockerImage ="
+                    docker tag httpserver:1.1 mejaideb/httpserverpipelinedemo
+                    docker push mejaideb/httpserverpipeline
                 ''',
             label: "Publishing Docker Image"
             }

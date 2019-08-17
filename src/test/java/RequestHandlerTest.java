@@ -1,5 +1,5 @@
 import com.tavisca.workshops.practiceHttpServer.RequestHandler;
-import org.junit.Assert;
+
 import org.junit.Test;
 
 import java.io.BufferedInputStream;

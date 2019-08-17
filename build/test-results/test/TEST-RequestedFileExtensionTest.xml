@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RequestedFileExtensionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-16T06:59:51" hostname="RENTLAPT0065" time="0.006">
+<testsuite name="RequestedFileExtensionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-08-16T09:42:30" hostname="RENTLAPT0065" time="0.007">
   <properties/>
-  <testcase name="getContentTypeFromExtensionTest" classname="RequestedFileExtensionTest" time="0.005"/>
+  <testcase name="getContentTypeFromExtensionTest" classname="RequestedFileExtensionTest" time="0.006"/>
   <testcase name="getContentTypeFromFilenameTest" classname="RequestedFileExtensionTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -334,3 +334,7 @@ Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: connection established..
 Aug 16, 2019 12:26:02 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
 INFO: waiting for client
+Aug 16, 2019 3:06:44 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+INFO: waiting for client
+Aug 16, 2019 6:17:12 PM com.tavisca.workshops.practiceHttpServer.MyLogger log
+INFO: waiting for client
