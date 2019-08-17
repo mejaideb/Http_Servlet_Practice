@@ -47,7 +47,7 @@ pipeline {
                 sh label: '', script: '''
 		echo "I am Pubishing DockerImage ="
 		
-		    docker login -u mejaideb -p Create5891@
+		    docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
                     docker tag httpserver:1.1 mejaideb/httpserverpipelinedemo
                     docker push mejaideb/httpserverpipeline
 		    '''
