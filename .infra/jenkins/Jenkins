@@ -1,5 +1,9 @@
 pipeline {
     agent any
+    environment {
+    registry = "mejaideb/httpserverdemo"
+    registryCredential = 'dockerhub'
+}
     stages {
         stage('Build') {
             steps {
